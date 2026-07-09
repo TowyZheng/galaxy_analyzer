@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools >= 61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "galactic-plotter"
+version = "0.0.1"
+authors = [
+    { name="Toe Oo Wai Yan" }
+]
+description = "Tools for plotting synthetic galaxy arms and longitude-velocity diagrams."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "matplotlib",
+    "scipy",
+    "scikit-learn",
+    "Pillow"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/TowyZheng/galactic-plotter"
