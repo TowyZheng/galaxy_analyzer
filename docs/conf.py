@@ -8,9 +8,9 @@
 
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../galactic-plotter/'))
+sys.path.insert(0, os.path.abspath('../galaxy_analyzer/'))
 
-project = 'galactic_plotter'
+project = 'galaxy_analyzer'
 copyright = '2026, Toe Oo Wai Yan'
 author = 'Toe Oo Wai Yan'
 root_doc = 'index'

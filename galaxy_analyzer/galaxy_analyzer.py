@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-class GalacticPlotter:
+class GalaxyAnalyzer:
     def __init__(self, rotating=False, degree=0.0, rotation_direction='clockwise', xRo=0.0, yRo=8.0, Vo=220.0):
         """
         Initializes the Galaxy Plotter.

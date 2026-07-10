@@ -1,9 +1,9 @@
-.. _galactic_plotter:
+.. _galaxy_analyzer:
 
-Galactic Plotter
+Galaxy Analyzer
 ================
 
 Core utility for galaxy plotting, coordinate rotations, selecting and extracting regions, longitude-velocity diagram plotting, and bounding box extractions.
 
-.. autoclass:: galactic_plotter::GalacticPlotter
+.. autoclass:: galaxy_analyzer::GalaxyAnalyzer
     :members:

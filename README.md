@@ -1,4 +1,4 @@
-# galactic-plotter 🌌
+# galaxy_analyzer 🌌
 
 Before git clone, the requirement is Python 3.10.0 or later.
 
