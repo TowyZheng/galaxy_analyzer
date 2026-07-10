@@ -16,7 +16,7 @@ You may start with `pip install galaxy_analyzer` and install it in your conda en
 
 You may also use git clone: `https://github.com/TowyZheng/galaxy_analyzer.git`. 
 
-But, don't forget to: 
+If you go with the git clone method, don't forget to do: 
 >`cd /PATH/TO/<<GALAXY_ANALYZER>>`\
 >`git stash`\
 >`git pull origin main`\
