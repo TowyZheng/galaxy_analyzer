@@ -21,3 +21,6 @@ dependencies = [
 
 [project.urls]
 "Homepage" = "https://github.com/TowyZheng/galaxy_analyzer"
+
+[tool.setuptools.packages.find]
+include = ["galaxy_analyzer*"]
