@@ -24,6 +24,8 @@ If you go with the git clone method, don't forget to do:
 
 to get the latest version of our package.
 
+If you are interested in exploring all the module functions, you can visit here to see them in detail: https://galaxy-analyzer.readthedocs.io/en/latest/galaxy_analyzer.html
+
 # After pip installed...
 
 After you've pip installed the package, you can start by importing it into your .py or .ipynb files. 
