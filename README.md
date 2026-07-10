@@ -6,7 +6,7 @@ $$ l = \arctan(\frac{y − y_{Ro}}{x − x_{Ro}}) $$
 
 where, x and y are positional components from your galaxy sims; and $x_{Ro}$ and $y_{Ro}$ are observor's positional component.
 
-$$ vlos = \sqrt{v_x^2 + v_y^2} \sin(l - \theta) - V_{obs} \sin(l) $$
+$$ v_{los} = \sqrt{v_x^2 + v_y^2} \sin(l - \theta) - V_{obs} \sin(l) $$
 
 where $v_x$ and $v_y$ are velocity component from your galaxy sims; $V_{obs}$ is the azimuthal velocity at the observer's position; and $\theta = \arctan(\frac{v_y}{v_x})$ 
 
